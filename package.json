@@ -1,0 +1,35 @@
+{
+  "name": "scotch-angularjs-testing",
+  "version": "1.0.0",
+  "description": "https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsun-code/scotch-angularjs-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsun-code/scotch-angularjs-testing/issues"
+  },
+  "homepage": "https://github.com/tsun-code/scotch-angularjs-testing#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "angular": "^1.8.2",
+    "angular-mocks": "^1.8.2",
+    "angular-ui-router": "^1.0.29",
+    "jasmine-core": "^3.6.0",
+    "karma": "^5.2.3",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
