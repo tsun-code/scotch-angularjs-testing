@@ -1,0 +1,1 @@
+# scotch-angularjs-testing
